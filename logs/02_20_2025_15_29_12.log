@@ -1,0 +1,55 @@
+[2025-02-20 15:29:24,654] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:29:24,655] 25 root - INFO - user data moved successfully
+[2025-02-20 15:29:29,559] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:29:29,559] 25 root - INFO - user data moved successfully
+[2025-02-20 15:29:30,904] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:29:30,907] 25 root - INFO - user data moved successfully
+[2025-02-20 15:29:30,914] 17 root - INFO - data loading started...
+[2025-02-20 15:29:32,437] 20 root - INFO - data loading completed...
+[2025-02-20 15:29:33,184] 23 root - INFO - loading model from persistent dir
+[2025-02-20 15:29:33,366] 63 llama_index.core.indices.loading - INFO - Loading all indices.
+[2025-02-20 15:32:09,361] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:32:09,362] 25 root - INFO - user data moved successfully
+[2025-02-20 15:32:15,696] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:32:15,698] 25 root - INFO - user data moved successfully
+[2025-02-20 15:32:15,907] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:32:15,909] 25 root - INFO - user data moved successfully
+[2025-02-20 15:32:15,912] 17 root - INFO - data loading started...
+[2025-02-20 15:32:17,299] 20 root - INFO - data loading completed...
+[2025-02-20 15:32:17,995] 23 root - INFO - loading model from persistent dir
+[2025-02-20 15:32:18,182] 63 llama_index.core.indices.loading - INFO - Loading all indices.
+[2025-02-20 15:34:18,790] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:34:18,792] 25 root - INFO - user data moved successfully
+[2025-02-20 15:34:27,937] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:34:27,940] 25 root - INFO - user data moved successfully
+[2025-02-20 15:34:28,196] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:34:28,198] 25 root - INFO - user data moved successfully
+[2025-02-20 15:34:28,200] 17 root - INFO - data loading started...
+[2025-02-20 15:34:29,478] 20 root - INFO - data loading completed...
+[2025-02-20 15:34:30,960] 30 root - INFO - creating embedding
+[2025-02-20 15:34:31,215] 36 root - INFO - 
+[2025-02-20 15:34:48,983] 40 root - INFO - 
+[2025-02-20 15:35:41,900] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:35:41,902] 25 root - INFO - user data moved successfully
+[2025-02-20 15:35:41,905] 17 root - INFO - data loading started...
+[2025-02-20 15:35:42,760] 20 root - INFO - data loading completed...
+[2025-02-20 15:35:45,761] 23 root - INFO - loading model from persistent dir
+[2025-02-20 15:35:45,920] 63 llama_index.core.indices.loading - INFO - Loading all indices.
+[2025-02-20 15:36:28,053] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:36:28,054] 25 root - INFO - user data moved successfully
+[2025-02-20 15:36:34,406] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:36:34,407] 25 root - INFO - user data moved successfully
+[2025-02-20 15:36:35,625] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:36:35,628] 25 root - INFO - user data moved successfully
+[2025-02-20 15:36:35,631] 17 root - INFO - data loading started...
+[2025-02-20 15:36:36,573] 20 root - INFO - data loading completed...
+[2025-02-20 15:36:38,778] 23 root - INFO - loading model from persistent dir
+[2025-02-20 15:36:38,882] 63 llama_index.core.indices.loading - INFO - Loading all indices.
+[2025-02-20 15:36:38,883] 27 root - INFO - model loading from persistent dir completed
+[2025-02-20 15:36:53,350] 20 root - INFO - moving user data to DATA folder
+[2025-02-20 15:36:53,352] 25 root - INFO - user data moved successfully
+[2025-02-20 15:36:53,356] 17 root - INFO - data loading started...
+[2025-02-20 15:36:54,311] 20 root - INFO - data loading completed...
+[2025-02-20 15:36:56,784] 23 root - INFO - loading model from persistent dir
+[2025-02-20 15:36:56,907] 63 llama_index.core.indices.loading - INFO - Loading all indices.
+[2025-02-20 15:36:56,908] 27 root - INFO - model loading from persistent dir completed
